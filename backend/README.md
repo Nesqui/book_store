@@ -52,4 +52,4 @@ $ npm run start:prod
 
 ## Swagger
 
-http://<IP>:<PORT>/docs/
+http://IP:PORT/docs/
