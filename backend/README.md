@@ -20,7 +20,7 @@ $ EMAIL_USERNAME=''
 $ EMAIL_PASSWORD=''
 $ APP_URL='http://127.0.0.1:3000'
 $ JWT_SECRET='secret jwt'
-$ JWT_EXPIRES_IN=for example 20d
+$ JWT_EXPIRES_IN='20d' # for example
 ```
 
 ## Migrations
