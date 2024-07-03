@@ -6,7 +6,7 @@
 
 ```bash
 $ npm install
-$ add .env file or make env with
+$ add .env file or make env by own desition
 $ APP_VERSION=1.0.1
 $ APP_PORT=3000 # default values
 $ DB_DIALECT='postgres' # default values
